@@ -1,3 +1,9 @@
+BODY {
+  margin:0 auto;
+  font-family: Helvetica, Arial sans-serif;
+  font-size: 1em;
+}
+
 p {
   color:#900; /* Font color: Red */
 }
