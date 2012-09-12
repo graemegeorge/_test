@@ -7,3 +7,10 @@ BODY {
 p {
   color:#900; /* Font color: Red */
 }
+
+nav ul li {
+	list-style:none;
+	display:inline;
+	margin: 10 ;
+	
+}
